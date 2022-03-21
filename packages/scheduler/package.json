@@ -1,6 +1,6 @@
 {
   "name": "@hospitalsdk/scheduler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "> TODO: description",
   "author": "Mohammed Aouf Zouag <mohammed.zouag@sentiance.com>",
   "homepage": "",
@@ -16,5 +16,9 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "9688b88fc853979a6679e1115da9f3b11a73fb2d"
 }

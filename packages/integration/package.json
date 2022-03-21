@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
     "@hospital-sdk/patient": "^0.0.0",
     "@hospital-sdk/scheduler": "^0.0.0",
     "ts-node": "^7.0.1"
-  }
+  },
+  "gitHead": "9688b88fc853979a6679e1115da9f3b11a73fb2d"
 }
